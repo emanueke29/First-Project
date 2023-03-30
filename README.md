@@ -2,6 +2,6 @@
 
 Hi! This is my first project in Github
 
-## Brench
+## Branch
 
 Test branch
